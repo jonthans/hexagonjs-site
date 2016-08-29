@@ -216,6 +216,6 @@
           @returns Form: This Form
 
   @seeAlso
-    @hxModuleLink(select)
-    @hxModuleLink(tag-input)
-    @hxModuleLink(autocomplete)
+    @hyperlink(../select)[Select]
+    @hyperlink(../tag-input)[Tag Input]
+    @hyperlink(../autocomplete)[Autocomplete]

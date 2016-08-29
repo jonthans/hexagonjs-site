@@ -102,9 +102,9 @@
               }
 
   @seeAlso
-    @hxModuleLink(date-picker)
-    @hxModuleLink(date-time-picker)
-    @hxModuleLink(select)
-    @hxModuleLink(tag-input)
-    @hxModuleLink(time-picker)
-    @hxModuleLink(autocomplete)
+    @hyperlink(../date-picker)[Date Picker]
+    @hyperlink(../date-time-picker)[Date Time Picker]
+    @hyperlink(../time-picker)[Time Picker]
+    @hyperlink(../select)[Select]
+    @hyperlink(../tag-input)[Tag Input]
+    @hyperlink(../autocomplete)[Autocomplete]

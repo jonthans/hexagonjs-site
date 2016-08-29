@@ -74,8 +74,5 @@
         @returns Array
 
   @seeAlso
-    @hxModuleLink(hx-list)
-    @hxModuleLink(hx-set)
-
-
-
+    @hyperlink(../list)[List]
+    @hyperlink(../set)[Set]

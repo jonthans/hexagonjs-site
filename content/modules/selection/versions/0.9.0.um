@@ -437,6 +437,6 @@
         @returns Morph
 
   @seeAlso
-    @hxModuleLink(hx-view)
-    @hxModuleLink(hx-animate)
-    @hxModuleLink(hx-morph)
+    @hyperlink(../view)[View]
+    @hyperlink(../animate)[Animate]
+    @hyperlink(../morph)[Morph]

@@ -57,5 +57,5 @@
         @returns Array: An array of all the values from the set
 
   @seeAlso
-    @hxModuleLink(hx-list)
-    @hxModuleLink(hx-map)
+    @hyperlink(../list)[List]
+    @hyperlink(../map)[Map]

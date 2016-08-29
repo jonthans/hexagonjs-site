@@ -131,4 +131,4 @@
 
 
   @seeAlso
-    @hxModuleLink(slider)
+    @hyperlink(../slider)[Slider]

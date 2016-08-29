@@ -144,5 +144,5 @@
   @theme
 
   @seeAlso
-    @hxModuleLink(date-picker)
-    @hxModuleLink(time-picker)
+    @hyperlink(../date-picker)[Date Picker]
+    @hyperlink(../time-picker)[Time Picker]

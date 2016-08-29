@@ -108,5 +108,5 @@
 
 
   @seeAlso
-    @hxModuleLink(hx-animate)
-    @hxModuleLink(hx-morph)
+    @hyperlink(../animate)[Animate]
+    @hyperlink(../morph)[Morph]

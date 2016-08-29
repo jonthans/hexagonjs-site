@@ -67,4 +67,4 @@
   @theme
 
   @seeAlso
-    @hxModuleLink(hx-filter)
+    @hyperlink(../filter)[Filter]

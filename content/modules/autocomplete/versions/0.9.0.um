@@ -151,7 +151,7 @@
 
           @property filterOptions [Object]
             @description
-              The options to use when filtering internally. The available options can be found on the @moduleLink(hx-filter) page.
+              The options to use when filtering internally. The available options can be found on the @hyperlink(../filter)[Filter] page.
               The default @code[searchValues] option uses the passed in input map to search on.
 
           @property inputMap [Function]
@@ -217,5 +217,5 @@
   @theme
 
   @seeAlso
-    @hxModuleLink(hx-sort)
-    @hxModuleLink(hx-filter)
+    @hyperlink(../sort)[Sort]
+    @hyperlink(../filter)[Filter]
