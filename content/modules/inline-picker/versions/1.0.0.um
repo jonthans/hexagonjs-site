@@ -85,4 +85,4 @@
         @returns InlinePicker: This InlinePicker
 
   @seeAlso
-    @moduleLink(inline-editable)
+    @hyperLink(../inline-editable)[Inline Editable]

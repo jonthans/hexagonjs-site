@@ -118,7 +118,7 @@
         @returns InlineMorphSection: This InlineMorphSection
 
   @seeAlso
-    @moduleLink inline-editable
-    @moduleLink inline-select
+    @hyperLink(../inline-editable)[Inline Editable]
+    @hyperLink(../inline-select)[Inline Select]
 
 

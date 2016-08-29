@@ -26,5 +26,5 @@
         .then('collapse', 100)
 
   @seeAlso
-    @moduleLink(hx-animate)
-    @moduleLink(hx-select)
+    @hyperLink(../animate)[Animate]
+    @hyperLink(../select)[Select]

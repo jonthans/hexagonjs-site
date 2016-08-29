@@ -182,7 +182,7 @@
       @default: #3D3D3D
 
   @seeAlso
-    @moduleLink hx-input-group
+    @hyperLink(../input-group)[Input Group]
 
   @changelog
 

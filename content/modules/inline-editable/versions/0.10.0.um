@@ -37,5 +37,5 @@
         @returns InlineEditable: This InlineEditable
 
   @seeAlso
-    @moduleLink(inline-select)
+    @hyperLink(../inline-select)[Inline Select]
 

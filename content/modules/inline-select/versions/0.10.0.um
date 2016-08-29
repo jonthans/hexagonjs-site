@@ -48,4 +48,4 @@
         @returns InlineSelect: This InlineSelect
 
   @seeAlso
-    @moduleLink(inline-editable)
+    @hyperLink(../inline-editable)[Inline Editable]
